@@ -23,6 +23,7 @@
       <module>ming-spring-boot-https</module>
       <module>ming-spring-boot-thymeleaf</module>
       <module>ming-spring-boot-freemarker</module>
+      <module>ming-spring-boot-intergration</module>
   </modules>
 
   <name>ming-parent</name>
@@ -37,6 +38,12 @@
               <groupId>org.projectlombok</groupId>
               <artifactId>lombok</artifactId>
               <version>1.16.10</version>
+          </dependency>
+
+          <dependency>
+              <groupId>com.alibaba</groupId>
+              <artifactId>fastjson</artifactId>
+              <version>1.2.47</version>
           </dependency>
       </dependencies>
   </dependencyManagement>
