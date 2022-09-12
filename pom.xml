@@ -20,6 +20,8 @@
       <module>ming-spring-cloud-feign</module>
       <module>ming-spring-boot-loader</module>
       <module>ming-spring-boot-loader-plugin</module>
+      <module>ming-spring-boot-https</module>
+      <module>ming-spring-boot-thymeleaf</module>
   </modules>
 
   <name>ming-parent</name>
