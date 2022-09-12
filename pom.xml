@@ -22,6 +22,7 @@
       <module>ming-spring-boot-loader-plugin</module>
       <module>ming-spring-boot-https</module>
       <module>ming-spring-boot-thymeleaf</module>
+      <module>ming-spring-boot-freemarker</module>
   </modules>
 
   <name>ming-parent</name>
